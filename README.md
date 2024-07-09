@@ -7,7 +7,7 @@ Add Loader (Loading) screen into your website!
   - With CDN: Add \
   `<script src="https://cdn.jsdelivr.net/gh/ScadeBlock/ULoaderJS@main/js/uloaderjs.js"></script>`\
  into your `<body>` element
-  - Local Host (Better Performance): Download `ULoaderjs.js` from Release Tab, and then add it into your website
+  - Local Host (Better Performance): Download `ULoaderjs.min.js` from Release Tab, and then add it into your website
 
 ## Demo
 
